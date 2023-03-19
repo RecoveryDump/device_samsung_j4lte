@@ -1,0 +1,16 @@
+boot magic: ANDROID!
+kernel_size: 16010904
+kernel load address: 0x10008000
+ramdisk size: 19850360
+ramdisk load address: 0x11000000
+second bootloader size: 0
+second bootloader load address: 0x00000000
+kernel tags load address: 0x10000100
+page size: 2048
+os version: 12.0.0
+os patch level: 2022-06
+boot image header version: 0
+product name: 
+command line args: buildvariant=eng
+additional command line args: 
+ramdisk format: gzip
